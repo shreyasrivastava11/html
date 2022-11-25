@@ -1,0 +1,21 @@
+h1{
+    font-style: italic;
+    font-weight: 50px;
+    font-family: Verdana;
+    color:rgb(4, 0, 255);
+    text-align:center;
+}
+.p1{
+    font-style: italic;
+    font-weight: 70px;
+    font-family:'Courier New';
+    color:rgb(255, 0, 157);
+    text-align:left;
+}
+.p2{
+    font-style: italic;
+    font-weight: 80px;
+    font-family:'Times New Roman';
+    color:rgb(247, 0, 255);
+    text-align:right;
+}
